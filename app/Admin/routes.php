@@ -12,4 +12,8 @@ Route::group([
 
     $router->get('/', 'HomeController@index');
 
+    //这里新添加了一条注释
+
+    //AAA
+
 });
